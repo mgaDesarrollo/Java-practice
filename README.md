@@ -11,6 +11,7 @@ Repositorio dedicado al aprendizaje y práctica del lenguaje Java, cubriendo des
 *   **`java-poo/`**: Proyectos enfocados en Programación Orientada a Objetos (Clases, Objetos, Herencia, Polimorfismo, Encapsulamiento).
 *   **`java-interfaces/`**: Ejemplos del uso de interfaces y abstracción en Java.
 *   **`java-pipeline/`**: Ejercicios/Pruebas con pipelines y flujos de datos.
+*   **`java-conceptos-poo/`**: Explicación práctica de los conceptos fundamentales: Clase, Objeto, Interfaz y Clase Abstracta.
 
 ## 🚀 Cómo ejecutar los ejercicios
 1. Clona este repositorio:
